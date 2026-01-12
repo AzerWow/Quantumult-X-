@@ -1,0 +1,4 @@
+# TextNow 分流规则
+HOST-SUFFIX,textnow.com
+HOST-SUFFIX,tn-apps.com
+HOST-KEYWORD,textnow
