@@ -1,4 +1,15 @@
 # TextNow 分流规则
 HOST-SUFFIX,textnow.com
-HOST-SUFFIX,tn-apps.com
+HOST-SUFFIX,textnow.me
+HOST-SUFFIX,textnow.io
+HOST-SUFFIX,textnow.us
+HOST-SUFFIX,touch.com
+HOST-SUFFIX,tn-apis.com
+HOST-SUFFIX,ensighten.com
+HOST-SUFFIX,liftigniter.com
+HOST-SUFFIX,adjust.com
+HOST-SUFFIX,branch.io
+HOST-KEYWORD,enflick
+HOST-KEYWORD,tapjoy
+HOST-KEYWORD,adcolony
 HOST-KEYWORD,textnow
